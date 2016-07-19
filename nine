@@ -1,0 +1,31 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta name="viewport" content="width=device-width,initial-scale=1.0,minimum-scale=1.0,maximum-scale=1.0,user-scalable=no">
+<title>九宫格</title>
+<style type="text/css">
+body{height:100%}
+*{margin:0; padding:0;}
+.ys{width:31.3%;height:96px;float:left;background:#b3b3e7;margin:1%;border-radius:5px;}
+.sy{width:100%}
+</style>
+</head>
+<body>
+  <div class="sy">
+	<div class="ys"></div>
+	<div class="ys"></div>
+	<div class="ys"></div>
+  </div>
+    <div class="sy">
+	<div class="ys"></div>
+	<div class="ys"></div>
+	<div class="ys"></div>
+  </div>
+    <div class="sy">
+	<div class="ys"></div>
+	<div class="ys"></div>
+	<div class="ys"></div>
+  </div>
+</body>
+
+</html>
