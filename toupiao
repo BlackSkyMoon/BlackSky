@@ -1,0 +1,94 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no" />  
+<title>投票</title>
+<style>
+body{padding:0;margin:0; font-family:"微软雅黑"}
+*{padding:0;margin:0;}
+header{background:#333333; widht:100%; height:46px;text-align:center; line-height:46px;}
+.fh{display:block;width:35px;height:35px;background:url(GG/返回.png) 3px 3px no-repeat; background-size:35px 35px; position:absolute;}
+.tit{color:#fff;font-size:18px; font-weight:bold;}
+.ll{width:32%;height:120px; float:left; list-style:none; margin:0.6%;position:relative; border-radius:3px;}
+.ll1{width:32%;height:30px; float:left; list-style:none; margin:3% 0.6%;position:relative; text-align:center; background:#0099CC; border-radius:5px; line-height:30px;color:#fff; font-size:14px; font-weight:bold;}
+.uu1{width:100%; height:180px; padding-top:5px;}
+.uu2{width:100%; height:180px;}
+.tp{width:100%;height:30px; background-color:rgba(0,0,0,0.5); position:absolute; bottom:0;display:block; text-align:center;}
+.l1{background:url(../Downloads/1bee1aac22dd1894cd18217b4e1d95af.jpg);background-size:100% 120px;}
+.l2{background:url(../Downloads/9f5c2a5cf7aa6bbcdc51a0e72527ca87.jpg);background-size:100% 120px;}
+.l3{background:url(../Downloads/56fe0152d5bf8f55e2467709ff898fdf_b.png);background-size:100% 120px;}
+.l4{background:url(../Downloads/be63a190d4e25083b0fa3823fd03800c.jpg);background-size:100% 120px;}
+.l5{background:url(../Downloads/0de240b6a8b3f80b9a2cf9223d570152.jpg);background-size:100% 120px;}
+.l6{background:url(../Downloads/1de10a9289a061af5ff706f34f78d197.jpg);background-size:100% 120px;}
+.bt{color:#FFFFFF; background:#333333; display:block; width:100%; height:50px; line-height:50px; text-align:center; font-size:18px; font-weight:bold; position:absolute; bottom:0; opacity:0.7;}
+.xc{background:url(../Downloads/19a36736e22a2aaa832df26c4bd36bde.jpg); background-size:100% 180px; width:100%; height:180px; position:relative;}
+em{color:#FFFFFF; font-style:normal;}
+main{background:#D9D6BD}
+</style>
+</head>
+
+<body>
+<header>
+<a href="javascript:history.go(-1)"><i class="fh"></i></a>
+<span class="tit">投票页面</span>
+</header>
+<div class="xc">
+<span class="bt">月黑风高杀人夜，血溅当空谁称王</span>
+</div>
+<main>
+	<ul class="uu1">
+		<li class="ll l1">
+			<span class="tp">
+				<em>巨龙骑士</em>
+			</span>
+		</li>
+		<li class="ll l2">
+			<span class="tp">
+				<em>焱炎龙</em>
+			</span>
+		</li>
+		<li class="ll l3">
+			<span class="tp">
+				<em>万人屠</em>
+			</span>
+		</li>
+		<li class="ll1">
+		加入阵营
+		</li>
+		<li class="ll1">
+		加入阵营
+		</li>
+		<li class="ll1">
+		加入阵营
+		</li>
+	</ul>
+	<ul class="uu2">
+		<li class="ll l4">
+			<span class="tp">
+				<em>恶魔猎手</em>
+			</span>
+		</li>
+		<li class="ll l5">
+			<span class="tp">
+				<em>齐天大圣</em>
+			</span>
+		</li>
+		<li class="ll l6">
+			<span class="tp">
+				<em>钢铁之心</em>
+			</span>
+		</li>
+		<li class="ll1">
+		加入阵营
+		</li>
+		<li class="ll1">
+		加入阵营
+		</li>
+		<li class="ll1">
+		加入阵营
+		</li>
+	</ul>
+</main>	
+</body>
+</html>
